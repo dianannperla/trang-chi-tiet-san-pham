@@ -1,6 +1,6 @@
 {
   "name": "trang-chi-tiet-san-pham",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "private": true,
   "dependencies": {
     "axios": "^0.27.3",
